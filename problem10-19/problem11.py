@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 27 23:16:14 2019
 
-@author: samet
+@author: sametakbal
 """
 
 matris =(
