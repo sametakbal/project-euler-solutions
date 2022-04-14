@@ -9,7 +9,7 @@ function twenty(num) {
     return ch;
 }
 // 2520*11*13*17*19 first multiplied by prime numbers
-i = 116396280
+let i = 116396280;
 while (twenty(i) !== 10)
-    i += 1
+    i++;
 console.log(i)
