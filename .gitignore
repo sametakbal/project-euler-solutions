@@ -2,6 +2,10 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+*.iml
+*.iws
+*.ipr
+.idea/
 
 ### Eclipse ###
 .apt_generated
@@ -30,3 +34,4 @@ bin/
 
 /project-euler-solutions.iml
 .idea/**
+/.idea/
